@@ -88,6 +88,8 @@ The `make prepare-release` command generates several formats:
 - `*-base` versions: Contain only locally defined classes (no imports).
 - These are the canonical files used by portals like OLS or OntoBee.
 
+---
+
 ## Contributing to the Promoting Health Aging through Semantic Enrichment of Solitude Research (PHASES) Ontology
 
 ### Robot and Protégé
